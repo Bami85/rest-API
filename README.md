@@ -1,2 +1,2 @@
 # rest-API
-Skapa en fristående, extern webbapplikation med data från WordPress &amp; WooCommerce REST API. 
+Skapad en extern webbapplikation med data från WordPress &amp; WooCommerce REST API. 

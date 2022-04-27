@@ -1,0 +1,942 @@
+[
+    {
+        "id": 67,
+        "name": "SWEATSHIRTS AND TRACKSUITS",
+        "slug": "adidas-set",
+        "permalink": "http://localhost:3000/produkt/adidas-set/",
+        "date_created": "2022-04-23T04:07:19",
+        "date_created_gmt": "2022-04-23T02:07:19",
+        "date_modified": "2022-04-27T03:05:28",
+        "date_modified_gmt": "2022-04-27T01:05:28",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "",
+        "short_description": "<h1></h1>\n<p class=\"disclaimers\">Proclaim your support for the bianconero squad wherever, whenever. This pure cotton jersey T-shirt sports a crew neck, short sleeves and a high-impact graphic print, evoking the worldwide echo of your team’s legendary name.</p>\n",
+        "sku": "",
+        "price": "800",
+        "regular_price": "800",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 5,
+        "virtual": false,
+        "downloadable": true,
+        "downloads": [
+            {
+                "id": "63905f0c-382c-40ee-9ecd-668235f49f3a",
+                "name": "SWEATSHIRTS AND TRACKSUITS",
+                "file": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-24-zne.jpeg"
+            }
+        ],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 50,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 21,
+                "name": "ADIDAS CULTUREWEAR",
+                "slug": "adidas-culturewear"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 71,
+                "date_created": "2022-04-23T06:07:07",
+                "date_created_gmt": "2022-04-23T02:07:07",
+                "date_modified": "2022-04-23T06:07:07",
+                "date_modified_gmt": "2022-04-23T02:07:07",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-25-zne.jpeg",
+                "name": "adidas-juventus-21-25-zne",
+                "alt": ""
+            },
+            {
+                "id": 68,
+                "date_created": "2022-04-23T06:07:02",
+                "date_created_gmt": "2022-04-23T02:07:02",
+                "date_modified": "2022-04-23T06:07:02",
+                "date_modified_gmt": "2022-04-23T02:07:02",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-22-zne.jpeg",
+                "name": "adidas-juventus-21-22-zne",
+                "alt": ""
+            },
+            {
+                "id": 69,
+                "date_created": "2022-04-23T06:07:04",
+                "date_created_gmt": "2022-04-23T02:07:04",
+                "date_modified": "2022-04-23T06:07:04",
+                "date_modified_gmt": "2022-04-23T02:07:04",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-23-zne.jpeg",
+                "name": "adidas-juventus-21-23-zne",
+                "alt": ""
+            },
+            {
+                "id": 70,
+                "date_created": "2022-04-23T06:07:05",
+                "date_created_gmt": "2022-04-23T02:07:05",
+                "date_modified": "2022-04-23T06:07:05",
+                "date_modified_gmt": "2022-04-23T02:07:05",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-24-zne.jpeg",
+                "name": "adidas-juventus-21-24-zne",
+                "alt": ""
+            },
+            {
+                "id": 71,
+                "date_created": "2022-04-23T06:07:07",
+                "date_created_gmt": "2022-04-23T02:07:07",
+                "date_modified": "2022-04-23T06:07:07",
+                "date_modified_gmt": "2022-04-23T02:07:07",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-25-zne.jpeg",
+                "name": "adidas-juventus-21-25-zne",
+                "alt": ""
+            },
+            {
+                "id": 72,
+                "date_created": "2022-04-23T06:07:08",
+                "date_created_gmt": "2022-04-23T02:07:08",
+                "date_modified": "2022-04-23T06:07:08",
+                "date_modified_gmt": "2022-04-23T02:07:08",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-26-zne.jpeg",
+                "name": "adidas-juventus-21-26-zne",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>800&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></bdi></span>",
+        "related_ids": [],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products/67"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "name": "JUVENTUS TIRO 21 TRACK TOP",
+        "slug": "juventus-tiro-21-track-top",
+        "permalink": "http://localhost:3000/produkt/juventus-tiro-21-track-top/",
+        "date_created": "2022-04-23T03:55:09",
+        "date_created_gmt": "2022-04-23T01:55:09",
+        "date_modified": "2022-04-23T06:29:34",
+        "date_modified_gmt": "2022-04-23T04:29:34",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>\"With a history of success, Juventus supporters have huge expectations. Ensuring the club's players get the perfect preparation before domestic games, this adidas Tiro football top combines soft French terry and moisture-wicking AEROREADY. A heat-applied version of the club's logo shows your past and present pride in the club.</p>\n<p>Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.\"</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "455",
+        "regular_price": "550",
+        "sale_price": "455",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 8,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 20,
+                "name": "New In",
+                "slug": "new-in"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 62,
+                "date_created": "2022-04-23T05:54:35",
+                "date_created_gmt": "2022-04-23T01:54:35",
+                "date_modified": "2022-04-23T05:54:35",
+                "date_modified_gmt": "2022-04-23T01:54:35",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product11.png",
+                "name": "product(11)",
+                "alt": ""
+            },
+            {
+                "id": 65,
+                "date_created": "2022-04-23T05:54:40",
+                "date_created_gmt": "2022-04-23T01:54:40",
+                "date_modified": "2022-04-23T05:54:40",
+                "date_modified_gmt": "2022-04-23T01:54:40",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product14.png",
+                "name": "product(14)",
+                "alt": ""
+            },
+            {
+                "id": 64,
+                "date_created": "2022-04-23T05:54:38",
+                "date_created_gmt": "2022-04-23T01:54:38",
+                "date_modified": "2022-04-23T05:54:38",
+                "date_modified_gmt": "2022-04-23T01:54:38",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product13.png",
+                "name": "product(13)",
+                "alt": ""
+            },
+            {
+                "id": 63,
+                "date_created": "2022-04-23T05:54:37",
+                "date_created_gmt": "2022-04-23T01:54:37",
+                "date_modified": "2022-04-23T05:54:37",
+                "date_modified_gmt": "2022-04-23T01:54:37",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product12.png",
+                "name": "product(12)",
+                "alt": ""
+            },
+            {
+                "id": 62,
+                "date_created": "2022-04-23T05:54:35",
+                "date_created_gmt": "2022-04-23T01:54:35",
+                "date_modified": "2022-04-23T05:54:35",
+                "date_modified_gmt": "2022-04-23T01:54:35",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product11.png",
+                "name": "product(11)",
+                "alt": ""
+            },
+            {
+                "id": 61,
+                "date_created": "2022-04-23T05:54:34",
+                "date_created_gmt": "2022-04-23T01:54:34",
+                "date_modified": "2022-04-23T05:54:34",
+                "date_modified_gmt": "2022-04-23T01:54:34",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product10-1.jpg",
+                "name": "product(10)",
+                "alt": ""
+            },
+            {
+                "id": 60,
+                "date_created": "2022-04-23T05:54:33",
+                "date_created_gmt": "2022-04-23T01:54:33",
+                "date_modified": "2022-04-23T05:54:33",
+                "date_modified_gmt": "2022-04-23T01:54:33",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product9-1.jpg",
+                "name": "product(9)",
+                "alt": ""
+            },
+            {
+                "id": 59,
+                "date_created": "2022-04-23T05:54:32",
+                "date_created_gmt": "2022-04-23T01:54:32",
+                "date_modified": "2022-04-23T05:54:32",
+                "date_modified_gmt": "2022-04-23T01:54:32",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product8-1.jpg",
+                "name": "product(8)",
+                "alt": ""
+            },
+            {
+                "id": 58,
+                "date_created": "2022-04-23T05:54:30",
+                "date_created_gmt": "2022-04-23T01:54:30",
+                "date_modified": "2022-04-23T05:54:30",
+                "date_modified_gmt": "2022-04-23T01:54:30",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product7-1.jpg",
+                "name": "product(7)",
+                "alt": ""
+            },
+            {
+                "id": 57,
+                "date_created": "2022-04-23T05:54:29",
+                "date_created_gmt": "2022-04-23T01:54:29",
+                "date_modified": "2022-04-23T05:54:29",
+                "date_modified_gmt": "2022-04-23T01:54:29",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product6-1.jpg",
+                "name": "product(6)",
+                "alt": ""
+            },
+            {
+                "id": 56,
+                "date_created": "2022-04-23T05:54:28",
+                "date_created_gmt": "2022-04-23T01:54:28",
+                "date_modified": "2022-04-23T05:54:28",
+                "date_modified_gmt": "2022-04-23T01:54:28",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product5-1.jpg",
+                "name": "product(5)",
+                "alt": ""
+            },
+            {
+                "id": 55,
+                "date_created": "2022-04-23T05:54:26",
+                "date_created_gmt": "2022-04-23T01:54:26",
+                "date_modified": "2022-04-23T05:54:26",
+                "date_modified_gmt": "2022-04-23T01:54:26",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product4-1.jpg",
+                "name": "product(4)",
+                "alt": ""
+            },
+            {
+                "id": 54,
+                "date_created": "2022-04-23T05:54:25",
+                "date_created_gmt": "2022-04-23T01:54:25",
+                "date_modified": "2022-04-23T05:54:25",
+                "date_modified_gmt": "2022-04-23T01:54:25",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product3-1.jpg",
+                "name": "product(3)",
+                "alt": ""
+            },
+            {
+                "id": 53,
+                "date_created": "2022-04-23T05:54:24",
+                "date_created_gmt": "2022-04-23T01:54:24",
+                "date_modified": "2022-04-23T05:54:24",
+                "date_modified_gmt": "2022-04-23T01:54:24",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product2-1.jpg",
+                "name": "product(2)",
+                "alt": ""
+            },
+            {
+                "id": 52,
+                "date_created": "2022-04-23T05:54:23",
+                "date_created_gmt": "2022-04-23T01:54:23",
+                "date_modified": "2022-04-23T05:54:23",
+                "date_modified_gmt": "2022-04-23T01:54:23",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product1-1.jpg",
+                "name": "product(1)",
+                "alt": ""
+            },
+            {
+                "id": 51,
+                "date_created": "2022-04-23T05:54:21",
+                "date_created_gmt": "2022-04-23T01:54:21",
+                "date_modified": "2022-04-23T05:54:21",
+                "date_modified_gmt": "2022-04-23T01:54:21",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product-1.jpg",
+                "name": "product",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi>550&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi>455&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></bdi></span></ins>",
+        "related_ids": [
+            35
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products/50"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "name": "JUVENTUS 4TH JERSEY KOBRA 21/22",
+        "slug": "juventus-4th-jersey-kobra-21-22",
+        "permalink": "http://localhost:3000/produkt/juventus-4th-jersey-kobra-21-22/",
+        "date_created": "2022-04-23T03:42:58",
+        "date_created_gmt": "2022-04-23T01:42:58",
+        "date_modified": "2022-04-26T17:06:22",
+        "date_modified_gmt": "2022-04-26T15:06:22",
+        "type": "variable",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "",
+        "short_description": "<section class=\"product-preview\">\n<div class=\"preview-slider\">\n<div id=\"hideOnMobile\" class=\"small-preview\"></div>\n</div>\n<div class=\"description-title\">PRODUCT DESCRIPTION</div>\n<p class=\"main-description\">Football and street art, Kobra, Juventus and adidas, a common vision, a unique and innovative jersey. Born from the sensitivity of the Brazilian artist and from the inclusiveness that has always distinguished Juventus, the 21/22 4th Jersey is a true color party. Characterized by a geometric pattern, perfectly put together, it works with shades of white, blue, and orange. Finished with the classic Adidas stripes on the shoulders, it&#8217;s a unique piece that embodies the passion for art and football. A Manifesto Jersey honoring the idea of a more inclusive world.<br />\nMade of high-performance recycled materials, it respects the environment. Tested with the latest Adidas technologies, it boasts the AEROREADY &#8211; FEEL READY formula that allows you to bring your A-game every single day.</p>\n</section>\n<aside class=\"product-menu\">\n<h1>JUVENTUS 4TH JERSEY KOBRA 21/22</h1>\n</aside>\n",
+        "sku": "HM6516",
+        "price": "",
+        "regular_price": "",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": false,
+        "total_sales": 1,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 24,
+        "backorders": "yes",
+        "backorders_allowed": true,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "5.00",
+        "rating_count": 1,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "<p>Tack att du köper hos Jueventus store</p>\n",
+        "categories": [
+            {
+                "id": 20,
+                "name": "New In",
+                "slug": "new-in"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 46,
+                "date_created": "2022-04-23T05:39:06",
+                "date_created_gmt": "2022-04-23T01:39:06",
+                "date_modified": "2022-04-23T05:39:06",
+                "date_modified_gmt": "2022-04-23T01:39:06",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product10.jpg",
+                "name": "product(10)",
+                "alt": ""
+            },
+            {
+                "id": 46,
+                "date_created": "2022-04-23T05:39:06",
+                "date_created_gmt": "2022-04-23T01:39:06",
+                "date_modified": "2022-04-23T05:39:06",
+                "date_modified_gmt": "2022-04-23T01:39:06",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product10.jpg",
+                "name": "product(10)",
+                "alt": ""
+            },
+            {
+                "id": 45,
+                "date_created": "2022-04-23T05:39:04",
+                "date_created_gmt": "2022-04-23T01:39:04",
+                "date_modified": "2022-04-23T05:39:04",
+                "date_modified_gmt": "2022-04-23T01:39:04",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product9.jpg",
+                "name": "product(9)",
+                "alt": ""
+            },
+            {
+                "id": 44,
+                "date_created": "2022-04-23T05:39:03",
+                "date_created_gmt": "2022-04-23T01:39:03",
+                "date_modified": "2022-04-23T05:39:03",
+                "date_modified_gmt": "2022-04-23T01:39:03",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product8.jpg",
+                "name": "product(8)",
+                "alt": ""
+            },
+            {
+                "id": 43,
+                "date_created": "2022-04-23T05:39:02",
+                "date_created_gmt": "2022-04-23T01:39:02",
+                "date_modified": "2022-04-23T05:39:02",
+                "date_modified_gmt": "2022-04-23T01:39:02",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product7.jpg",
+                "name": "product(7)",
+                "alt": ""
+            },
+            {
+                "id": 42,
+                "date_created": "2022-04-23T05:39:01",
+                "date_created_gmt": "2022-04-23T01:39:01",
+                "date_modified": "2022-04-23T05:39:01",
+                "date_modified_gmt": "2022-04-23T01:39:01",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product6.jpg",
+                "name": "product(6)",
+                "alt": ""
+            },
+            {
+                "id": 41,
+                "date_created": "2022-04-23T05:38:59",
+                "date_created_gmt": "2022-04-23T01:38:59",
+                "date_modified": "2022-04-23T05:38:59",
+                "date_modified_gmt": "2022-04-23T01:38:59",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product5.jpg",
+                "name": "product(5)",
+                "alt": ""
+            },
+            {
+                "id": 40,
+                "date_created": "2022-04-23T05:38:58",
+                "date_created_gmt": "2022-04-23T01:38:58",
+                "date_modified": "2022-04-23T05:38:58",
+                "date_modified_gmt": "2022-04-23T01:38:58",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product4.jpg",
+                "name": "product(4)",
+                "alt": ""
+            },
+            {
+                "id": 39,
+                "date_created": "2022-04-23T05:38:57",
+                "date_created_gmt": "2022-04-23T01:38:57",
+                "date_modified": "2022-04-23T05:38:57",
+                "date_modified_gmt": "2022-04-23T01:38:57",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product3.jpg",
+                "name": "product(3)",
+                "alt": ""
+            },
+            {
+                "id": 38,
+                "date_created": "2022-04-23T05:38:55",
+                "date_created_gmt": "2022-04-23T01:38:55",
+                "date_modified": "2022-04-23T05:38:55",
+                "date_modified_gmt": "2022-04-23T01:38:55",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product2.jpg",
+                "name": "product(2)",
+                "alt": ""
+            },
+            {
+                "id": 37,
+                "date_created": "2022-04-23T05:38:54",
+                "date_created_gmt": "2022-04-23T01:38:54",
+                "date_modified": "2022-04-23T05:38:54",
+                "date_modified_gmt": "2022-04-23T01:38:54",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product1.jpg",
+                "name": "product(1)",
+                "alt": ""
+            },
+            {
+                "id": 36,
+                "date_created": "2022-04-23T05:38:52",
+                "date_created_gmt": "2022-04-23T01:38:52",
+                "date_modified": "2022-04-23T05:38:52",
+                "date_modified_gmt": "2022-04-23T01:38:52",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/product.jpg",
+                "name": "product",
+                "alt": ""
+            },
+            {
+                "id": 34,
+                "date_created": "2022-04-23T05:36:18",
+                "date_created_gmt": "2022-04-23T01:36:18",
+                "date_modified": "2022-04-23T05:36:18",
+                "date_modified_gmt": "2022-04-23T01:36:18",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/thumbnail.120x120.jpg",
+                "name": "thumbnail.120&#215;120",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Storlek",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "\"S\"",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [
+            183,
+            184,
+            185,
+            186
+        ],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "",
+        "related_ids": [
+            50
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 17,
+        "name": "JUVENTUS HOME JERSEY 2021/22",
+        "slug": "juventus-home-jersey-2021-22",
+        "permalink": "http://localhost:3000/produkt/juventus-home-jersey-2021-22/",
+        "date_created": "2022-04-22T17:47:46",
+        "date_created_gmt": "2022-04-22T15:47:46",
+        "date_modified": "2022-04-23T04:13:13",
+        "date_modified_gmt": "2022-04-23T02:13:13",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "",
+        "short_description": "<p>The 2021/22 Home Kit jersey pays tribute to the 10th anniversary of the Allianz Stadium, the iconic venue where the talent of the team&#8217;s legendary champions meets the excitement of its fans. Its classic black and white stripes are embellished with stars on the chest inspired by the stadium’s distinctive Walk of Fame or Cammino delle Stelle, finished with “10 YEARS AT HOME” on the collar. Crafted from eco-friendly recycled polyester, this new jersey is enhanced with moisture-wicking AEROREADY technology for optimal breathability.</p>\n<p>Double yarn, 100% recycled polyester.</p>\n<p>Created for fans, this jersey has a regular fit with a slightly looser cut than the version worn by our players.</p>\n<p>Model wears a Size LARGE<br />\nHeight: 185 cm</p>\n",
+        "sku": "GS1442",
+        "price": "900",
+        "regular_price": "900",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 8,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 16,
+                "name": "T-SHIRTS AND POLOS",
+                "slug": "t-shirt"
+            }
+        ],
+        "tags": [
+            {
+                "id": 18,
+                "name": "GS1442",
+                "slug": "gs1442"
+            }
+        ],
+        "images": [
+            {
+                "id": 19,
+                "date_created": "2022-04-22T19:45:11",
+                "date_created_gmt": "2022-04-22T15:45:11",
+                "date_modified": "2022-04-22T19:45:11",
+                "date_modified_gmt": "2022-04-22T15:45:11",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-22-home-baby-set.jpeg",
+                "name": "adidas-juventus-21-22-home-baby-set",
+                "alt": ""
+            },
+            {
+                "id": 20,
+                "date_created": "2022-04-22T19:45:13",
+                "date_created_gmt": "2022-04-22T15:45:13",
+                "date_modified": "2022-04-22T19:45:13",
+                "date_modified_gmt": "2022-04-22T15:45:13",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-22-home-baby-set.jpg",
+                "name": "adidas-juventus-21-22-home-baby-set",
+                "alt": ""
+            },
+            {
+                "id": 19,
+                "date_created": "2022-04-22T19:45:11",
+                "date_created_gmt": "2022-04-22T15:45:11",
+                "date_modified": "2022-04-22T19:45:11",
+                "date_modified_gmt": "2022-04-22T15:45:11",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-22-home-baby-set.jpeg",
+                "name": "adidas-juventus-21-22-home-baby-set",
+                "alt": ""
+            },
+            {
+                "id": 18,
+                "date_created": "2022-04-22T19:45:10",
+                "date_created_gmt": "2022-04-22T15:45:10",
+                "date_modified": "2022-04-22T19:45:10",
+                "date_modified_gmt": "2022-04-22T15:45:10",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-21-22-home-baby-set-1.jpeg",
+                "name": "adidas-juventus-21-22-home-baby-set (1)",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>900&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></bdi></span>",
+        "related_ids": [
+            12
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products/17"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "JUVENTUS 2021/2022 PRE-MATCH SHIRT",
+        "slug": "12",
+        "permalink": "http://localhost:3000/produkt/12/",
+        "date_created": "2022-04-22T17:41:50",
+        "date_created_gmt": "2022-04-22T15:41:50",
+        "date_modified": "2022-04-26T14:51:55",
+        "date_modified_gmt": "2022-04-26T12:51:55",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "",
+        "short_description": "<p>Teams sprint across the pitch as the stadium speakers belt out pumping tunes. Sampling the electronica-inspired look of the Juventus away kit, this adidas football jersey keeps players comfortable ahead of kickoff. Smooth fabric and moisture-absorbing AEROREADY lay down the perfect mix. A contrast team logo makes itself heard over the bold design.</p>\n",
+        "sku": "HB0444",
+        "price": "640",
+        "regular_price": "650",
+        "sale_price": "640",
+        "date_on_sale_from": "2022-04-22T00:00:00",
+        "date_on_sale_from_gmt": "2022-04-21T22:00:00",
+        "date_on_sale_to": "2022-06-22T23:59:59",
+        "date_on_sale_to_gmt": "2022-06-22T21:59:59",
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "5.00",
+        "rating_count": 1,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 16,
+                "name": "T-SHIRTS AND POLOS",
+                "slug": "t-shirt"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 13,
+                "date_created": "2022-04-22T19:37:38",
+                "date_created_gmt": "2022-04-22T15:37:38",
+                "date_modified": "2022-04-22T19:39:23",
+                "date_modified_gmt": "2022-04-22T15:39:23",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-presentation-21-22-sweatshirt.jpeg",
+                "name": "adidas-juventus-presentation-21-22-sweatshirt",
+                "alt": ""
+            },
+            {
+                "id": 16,
+                "date_created": "2022-04-22T19:37:42",
+                "date_created_gmt": "2022-04-22T15:37:42",
+                "date_modified": "2022-04-22T19:37:42",
+                "date_modified_gmt": "2022-04-22T15:37:42",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-presentation-21-25-sweatshirt-1.jpeg",
+                "name": "adidas-juventus-presentation-21-25-sweatshirt (1)",
+                "alt": ""
+            },
+            {
+                "id": 15,
+                "date_created": "2022-04-22T19:37:40",
+                "date_created_gmt": "2022-04-22T15:37:40",
+                "date_modified": "2022-04-22T19:37:40",
+                "date_modified_gmt": "2022-04-22T15:37:40",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-presentation-21-24-sweatshirt-1.jpeg",
+                "name": "adidas-juventus-presentation-21-24-sweatshirt (1)",
+                "alt": ""
+            },
+            {
+                "id": 14,
+                "date_created": "2022-04-22T19:37:39",
+                "date_created_gmt": "2022-04-22T15:37:39",
+                "date_modified": "2022-04-22T19:37:39",
+                "date_modified_gmt": "2022-04-22T15:37:39",
+                "src": "http://localhost:3000/wp-content/uploads/2022/04/adidas-juventus-presentation-21-22-sweatshirt.jpg",
+                "name": "adidas-juventus-presentation-21-22-sweatshirt",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi>650&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi>640&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></bdi></span></ins>",
+        "related_ids": [
+            17
+        ],
+        "meta_data": [
+            {
+                "id": 805,
+                "key": "_oembed_77a0e4ee3d4a9dd5f3bd71c25b31aeb0",
+                "value": "{{unknown}}"
+            },
+            {
+                "id": 806,
+                "key": "_oembed_68848fd4dc52a5b95c00e6df31adbb6f",
+                "value": "{{unknown}}"
+            }
+        ],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products/12"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://localhost:3000/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
+]
